@@ -1,0 +1,23 @@
+{
+  "overview": "A daily burpee challenge tracker that uses social pressure from X (Twitter) to keep you accountable. Track your streak, shame yourself publicly when you miss a day, and compete on the leaderboard with your friends.",
+  "features": [
+    "Daily streak tracking with Complete/Missed buttons",
+    "X (Twitter) social sharing with prefilled Japanese challenge text",
+    "Missed-day penalty tracking in ICP",
+    "Leaderboard with streak rankings and missed-day highlights",
+    "X profile avatar display",
+    "Mobile-first responsive design"
+  ],
+  "category": "productivity",
+  "tags": [
+    "fitness",
+    "burpee",
+    "streak",
+    "challenge",
+    "twitter",
+    "leaderboard",
+    "social",
+    "accountability"
+  ],
+  "last_updated": "2026-05-01T04:26:20.446Z"
+}
